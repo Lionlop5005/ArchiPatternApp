@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("OnionApp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8b3e66b9797b99b0456a02d76ad8ef314e4e1863")]
 [assembly: System.Reflection.AssemblyProductAttribute("OnionApp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("OnionApp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
